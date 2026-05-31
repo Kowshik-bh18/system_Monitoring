@@ -1,0 +1,52 @@
+2026-05-19 12:43:14 : Monitoring script started
+2026-05-19 12:43:14 : System is running fine
+2026-05-19 12:48:09 : Monitoring script started
+2026-05-19 12:48:09 : System is running fine
+2026-05-19 12:48:09 : current user: kowshik
+2026-05-19 12:48:09 : current dir: /home/kowshik/monitoring_tool
+2026-05-19 12:56:02 [INFO] : Monitoring script started
+2026-05-19 12:56:02 [INFO] : System is running fine
+2026-05-19 12:56:02 [INFO] : Current user: kowshik
+2026-05-19 12:56:02 [INFO] : Current directory: /home/kowshik/monitoring_tool
+2026-05-19 12:56:02 [ERROR] : Sample error message
+2026-05-20 12:15:39 [INFO] : Monitoring started for process: bash
+2026-05-20 12:15:39 [INFO] : Process 'bash' is running (3 instances)
+2026-05-20 12:15:39 [INFO] : Monitoring finished
+2026-05-20 13:01:25 [INFO] : Monitoring started for process: xyz
+2026-05-20 13:01:25 [ERROR] : Process 'xyz' is NOT running
+2026-05-20 13:01:26 [INFO] : Monitoring finished
+2026-05-21 10:23:15 [INFO] : Monitoring started for process: bash
+2026-05-21 10:23:15 [INFO] : Process 'bash' is running (3 instances)
+2026-05-21 10:23:15 [INFO] : Disk usage is normal: 1%
+2026-05-21 10:23:15 [INFO] : Monitoring finished
+2026-05-22 12:50:36 [INFO] : Monitoring started for process: bash
+2026-05-22 12:50:36 [INFO] : Process 'bash' is running (3 instances)
+2026-05-22 12:50:36 [INFO] : Disk usage is normal: 1%
+2026-05-22 12:50:36 [INFO] : Log file: logs/monitor.log
+2026-05-22 12:50:36 [INFO] : Total lines: 24
+2026-05-22 12:50:36 [INFO] : Errors: 2
+2026-05-22 12:50:36 [INFO] : Warnings: 0
+2026-05-22 12:50:36 [INFO] : Monitoring finished
+2026-05-23 16:34:38 [INFO] : Monitoring started
+2026-05-23 16:34:38 [INFO] : Process 'bash' is running (3 instances)
+2026-05-23 16:34:38 [INFO] : Disk usage is normal: 1%
+2026-05-23 16:34:38 [INFO] : Log file: logs/monitor.log
+2026-05-23 16:34:38 [INFO] : Total lines: 32
+2026-05-23 16:34:38 [INFO] : Errors: 3
+2026-05-23 16:34:38 [INFO] : Warnings: 1
+2026-05-23 16:34:38 [INFO] : Monitoring finished
+2026-05-23 16:38:50 [INFO] : Monitoring started
+2026-05-23 16:38:50 [INFO] : Disk usage is normal: 1%
+2026-05-23 16:38:50 [INFO] : Log file: logs/monitor.log
+2026-05-23 16:38:50 [INFO] : Total lines: 39
+2026-05-23 16:38:50 [INFO] : Errors: 4
+2026-05-23 16:38:50 [INFO] : Warnings: 2
+2026-05-23 16:38:50 [INFO] : Monitoring finished
+2026-05-24 15:01:40 [INFO] : ----------------------------------------
+2026-05-24 15:01:40 [INFO] : Monitoring script started
+2026-05-24 15:01:40 [INFO] : User: kowshik
+2026-05-24 15:01:40 [INFO] : System: Linux kowshikbh 5.15.167.4-microsoft-standard-WSL2 #1 SMP Tue Nov 5 00:21:55 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+2026-05-24 15:01:40 [INFO] : Process 'bash' is running (3 instances)
+2026-05-24 15:01:40 [INFO] : Disk usage is normal: 1%
+2026-05-24 15:01:40 [ERROR] : Log file 'logs/app.log' not found
+2026-05-24 15:01:40 [INFO] : Monitoring finished
